@@ -1,8 +1,8 @@
-Origin: freakymonk's Test Repo
-Label: freakymonk' Repo
-Suite: stable
+Origin: freakymonk's Repo
+Label: freakymonk's Repo
+State: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: One tweak at a time.
+Description: Get all freakymonk's tweaks here.
