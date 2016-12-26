@@ -11,3 +11,17 @@ Section: Tweaks
 Description: A test tweak
 Author: Rajesh Majumdar <rajeshmjmdr02@gmail.com>
 Name: freakymonk
+
+Package: com.freakymonk.unlocktextchanger
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Rajesh Majumdar <rajeshmjmdr02@gmail.com>
+Filename: /UnlockTextChanger.deb
+Size: 2258
+MD5sum: 1694bc705e3ddca4f2aefcfa2c2d611d
+SHA1: 4ff90ede3fb0adf7a50303d2a55d01f7dace21a5
+SHA256: 58f8387e7faddc9c9b4916926b76dde203fe2754d5c6b7a3760014a4a218e903
+Section: Tweaks
+Description: An awesome tweak to change "Slide to Unlock" text.
+Author: Rajesh Majumdar <rajeshmjmdr02@gmail.com>
+Name: freakymonk
