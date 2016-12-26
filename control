@@ -1,9 +1,0 @@
-Package: com.freakymonk.unlocktextchanger
-Name: UnlockTextChanger
-Depends: mobilesubstrate
-Version: 0.0.1
-Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak to change "Slide to Unlock" text!
-Maintainer: Rajesh Majumdar
-Author: Rajesh Majumdar
-Section: Tweaks
