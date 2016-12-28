@@ -9,7 +9,7 @@ SHA1: 8a6369a7093b4d11ace1c71df93b16a63505c05a
 SHA256: 5251c0a2c835c12914a1123005ea8e262f5b05f34e64649399b343efb1efa5ba
 Section: Tweaks
 Description: A test tweak
-Author: Rajesh Majumdar<rajeshmjmdr02@gmail.com>
+Author: Rajesh Majumdar <rajeshmjmdr02@gmail.com>
 Name: freakymonk
 
 Package: com.freakymonk.unlocktextchanger
@@ -39,3 +39,15 @@ Section: Addons (Zepplin)
 Description: An awesome freakymonk logo.
 Author: Rajesh Majumdar <rajeshmjmdr02@gmail.com>
 Name: freakymonk's logo
+
+Package: com.freakymonk.respring
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Rajesh Majumdar <rajeshmjmdr02@gmail.com>
+Filename: ./debs/Respring.deb
+Size: 5278
+MD5sum: 4ad861b8a3c53766cd6cffb0e304a483
+Section: Tweaks
+Description: A respring tweak
+Author: Rajesh Majumdar <rajeshmjmdr02@gmail.com>
+Name: Respring
