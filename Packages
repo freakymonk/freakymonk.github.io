@@ -25,3 +25,17 @@ Section: Tweaks
 Description: An awesome tweak to change "Slide to unlock" text.
 Author: Rajesh Majumdar <rajeshmjmdr02@gmail.com>
 Name: UnlockTextChanger
+
+Package: com.freakymonk.logo
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Rajesh Majumdar <rajeshmjmdr02@gmail.com>
+Filename: ./debs/logo.deb
+Size: 2258
+MD5sum: d518a82898aff7afc139e9a927f34b74
+SHA1: c9cd1733f8e0dae04d4963f95bdc5db5eeca9b5d
+SHA256: 5fb43795121589650420ca41a0e987be3445f5f8d0cd08789496544429d6c8e4
+Section: Addons (Zepplin)
+Description: An awesome freakymonk logo.
+Author: Rajesh Majumdar <rajeshmjmdr02@gmail.com>
+Name: freakymonk's logo
