@@ -51,3 +51,15 @@ Section: Tweaks
 Description: A respring tweak
 Author: Rajesh Majumdar <rajeshmjmdr02@gmail.com>
 Name: Respring
+
+Package: com.freakymonk.speedtest
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Rajesh Majumdar <rajeshmjmdr02@gmail.com>
+Filename: ./debs/speedtest.deb
+Size: 21052
+MD5sum: f8be98534b13b79a5a78f3f0641d07aa
+Section: Tweaks
+Description: A tweak to show network speed in status bar
+Author: Rajesh Majumdar <rajeshmjmdr02@gmail.com>
+Name: SpeedTest
