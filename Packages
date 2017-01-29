@@ -75,3 +75,15 @@ Section: Tweaks
 Description: A tweak to replace :) with smiley face in messages app.
 Author: Rajesh Majumdar <rajeshmjmdr02@gmail.com>
 Name: SMSileys
+
+Package: com.rajesh.badgeremover
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Rajesh Majumdar <rajeshmjmdr02@gmail.com>
+Filename: ./debs/BadgeRemover10.deb
+Size: 4786
+MD5sum: 62483c4f8e7268e10f8307aea16e7de3
+Section: Tweaks
+Description: A simple little tweak to remove badges.
+Author: Rajesh Majumdar <rajeshmjmdr02@gmail.com>
+Name: BadgeRemover10
