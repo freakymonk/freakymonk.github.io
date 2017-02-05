@@ -87,3 +87,15 @@ Section: Tweaks
 Description: A simple little tweak to remove badges.
 Author: Rajesh Majumdar <rajeshmjmdr02@gmail.com>
 Name: BadgeRemover10
+
+Package: com.highaltitudehacks.dvia
+Version: 0.0.1
+Architeccture: iphoneos-arm
+Maintainer: Rajesh Majumdar <rajeshmjmdr02@gmail.com>
+Filename: ./debs/dviajbbypass.deb
+Size: 4770
+MD5sum: d18a7ce210e9b9950d7f3955c218d43d
+Section: Tweaks
+Description: Tweak for DVIA JB Bypass
+Author: Rajesh Majumdar <rajeshmjmdr02@gmail.com>
+Name: DVIA JB Bypass 1
